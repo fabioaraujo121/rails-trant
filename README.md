@@ -7,16 +7,12 @@ This is a gem to integrate the [Treant.js](http://fperucic.github.io/treant-js/)
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rails-treant'
+gem 'rails-treant', git: 'https://github.com/fabioaraujo121/rails-treant.git', branch: 'master'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install rails-treant
 
 ## Usage
 
